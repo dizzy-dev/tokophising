@@ -1,0 +1,1 @@
+document.oncontextmenu=function(e){return e.preventDefault(),!1},document.onkeydown=function(e){return 123!=event.keyCode&&(!e.ctrlKey||!e.shiftKey||73!=e.keyCode)&&(!e.ctrlKey||!e.shiftKey||67!=e.keyCode)&&(!e.ctrlKey||!e.shiftKey||74!=e.keyCode)&&(!e.ctrlKey||85!=e.keyCode)&&void 0};
