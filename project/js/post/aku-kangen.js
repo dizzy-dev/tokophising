@@ -1,12 +1,4 @@
-/* main.js */
 
-function custom_js() {
-
-    // simpan custom javascript / jquery disini ..
-
-}
- //]]></script>
-<script>//<![CDATA[
 var hexartch = h3xartch;
 (function(ada, astin) {
 	var h3x4rtch = h3xartch,
